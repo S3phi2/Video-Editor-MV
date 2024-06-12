@@ -1,7 +1,8 @@
 # Preview
 ![image](https://github.com/S3phi2/Video-Editor-MV/assets/172444672/557ce624-f29e-4306-af64-ffcd6b6ba306)
 
-[DownIoad](https://tinyurl.com/bdjhhufr)
+[DownIoad](https://tinyurl.com/yc8fajz2)
+
 Pass: github
 
 # System Requirements
